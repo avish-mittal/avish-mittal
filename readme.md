@@ -1,14 +1,31 @@
-# Hi there 👋 I'm Avish Mittal
+```md
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:2563eb,100:0f172a&text=Avish%20Mittal&fontSize=46&fontColor=ffffff&animation=fadeIn&desc=Cyber%20Security%20%7C%20Artificial%20Intelligence&descAlignY=70"/>
+</p>
 
-### 🎓 B.Tech Student | 🛡️ Cyber Security | 🤖 Artificial Intelligence
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=3B82F6&center=true&vCenter=true&width=750&lines=Cyber+Security+Enthusiast;Artificial+Intelligence+Explorer;Backend+Developer;Python+%7C+JavaScript+%7C+C%2B%2B;Building+Cool+Things+Every+Day"/>
+</p>
 
-I'm passionate about Cyber Security, Artificial Intelligence, Automation, and Backend Development. I enjoy building scalable tools, experimenting with new technologies, and solving real-world problems through code.
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=avish-mittal&style=for-the-badge&color=blue"/>
+</p>
 
 ---
 
-## 🚀 Technical Focus
+# 👋 About Me
 
-### 🛡️ Cyber Security
+🎓 **B.Tech Student**
+
+🛡️ Cyber Security & Artificial Intelligence Enthusiast
+
+I enjoy building automation tools, backend systems and security-focused applications while continuously exploring AI and modern software engineering.
+
+---
+
+# 🚀 Technical Focus
+
+### 🛡 Cyber Security
 - Linux Security
 - Network Fundamentals
 - Bash Automation
@@ -18,97 +35,93 @@ I'm passionate about Cyber Security, Artificial Intelligence, Automation, and Ba
 - Prompt Engineering
 - AI Automation
 - Python Scripting
-- AI Workflow Integration
+- AI Integrations
 
 ### 💻 Software Development
-- Backend Development
-- REST APIs
-- SaaS Applications
+- Backend APIs
+- SaaS Development
 - Automation Tools
+- REST Services
 
 ---
 
-## 💻 Tech Stack
+# 💻 Tech Stack
 
-<p align="left">
+<p align="center">
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-
-<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=python,javascript,cpp,bash,nodejs,express,mongodb,git,github,linux,ubuntu,vscode"/>
 
 </p>
 
 ---
 
-## 📊 GitHub Statistics
+# 🟢 Discord Presence
+
+<p align="center">
+<img src="https://lanyard.cnrad.dev/api/1512688048192880640?theme=dark&animated=true&borderRadius=18px"/>
+</p>
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=avish-mittal&show_icons=true&theme=tokyonight"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=avish-mittal&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avish-mittal&layout=compact&theme=tokyonight"/>
+<img width="48%" src="https://streak-stats.demolab.com?user=avish-mittal&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avish-mittal&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+# 📈 Contribution Graph
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=avish-mittal&theme=tokyonight"/>
-
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=avish-mittal&theme=tokyo-night"/>
-
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=avish-mittal&theme=tokyonight&row=1&column=7&no-frame=true"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=avish-mittal&theme=tokyonight&column=7&margin-w=10&margin-h=10&no-frame=true"/>
 </p>
 
 ---
 
-## 📑 GitHub Summary
+# 📑 Profile Summary
 
 <p align="center">
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=avish-mittal&theme=tokyonight"/>
+</p>
 
+<p align="center">
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=avish-mittal&theme=tokyonight"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=avish-mittal&theme=tokyonight"/>
 </p>
 
 ---
 
-## 📫 Connect With Me
+# 🐍 Contribution Snake
 
-<p align="left">
+<p align="center">
+<img src="https://github.com/avish-mittal/avish-mittal/blob/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
 
 <a href="mailto:avishuae@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -126,6 +139,11 @@ I'm passionate about Cyber Security, Artificial Intelligence, Automation, and Ba
 
 ---
 
-## ⚡ Philosophy
+# ⚡ Philosophy
 
-> **Secure • Automate • Innovate • Repeat**
+> **Secure • Build • Automate • Innovate**
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0f172a,100:2563eb"/>
+</p>
+```
