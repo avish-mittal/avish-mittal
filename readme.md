@@ -1,4 +1,4 @@
-```md
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:2563eb,100:0f172a&text=Avish%20Mittal&fontSize=46&fontColor=ffffff&animation=fadeIn&desc=Cyber%20Security%20%7C%20Artificial%20Intelligence&descAlignY=70"/>
 </p>
@@ -146,4 +146,4 @@ I enjoy building automation tools, backend systems and security-focused applicat
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0f172a,100:2563eb"/>
 </p>
-```
+
