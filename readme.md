@@ -1,57 +1,45 @@
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:2563eb,100:0f172a&text=Avish%20Mittal&fontSize=46&fontColor=ffffff&animation=fadeIn&desc=Cyber%20Security%20%7C%20Artificial%20Intelligence&descAlignY=70"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,100:2563EB&text=Avish%20Mittal&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Cyber%20Security%20%7C%20Artificial%20Intelligence&descAlignY=72"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=3B82F6&center=true&vCenter=true&width=750&lines=Cyber+Security+Enthusiast;Artificial+Intelligence+Explorer;Backend+Developer;Python+%7C+JavaScript+%7C+C%2B%2B;Building+Cool+Things+Every+Day"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&lines=Cyber+Security+Enthusiast;Artificial+Intelligence+Explorer;Backend+Developer;Python+%7C+JavaScript+%7C+C%2B%2B;Always+Learning+New+Things"/>
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=avish-mittal&style=for-the-badge&color=blue"/>
+  <img src="https://komarev.com/ghpvc/?username=avish-mittal&style=for-the-badge&color=2563EB"/>
 </p>
 
 ---
 
 # 👋 About Me
 
-🎓 **B.Tech Student**
+```yaml
+Name      : Avish Mittal
+Education : B.Tech Student
+Focus     : Cyber Security & Artificial Intelligence
+Location  : India
+```
 
-🛡️ Cyber Security & Artificial Intelligence Enthusiast
-
-I enjoy building automation tools, backend systems and security-focused applications while continuously exploring AI and modern software engineering.
-
----
-
-# 🚀 Technical Focus
-
-### 🛡 Cyber Security
-- Linux Security
-- Network Fundamentals
-- Bash Automation
-- Log Analysis
-
-### 🤖 Artificial Intelligence
-- Prompt Engineering
-- AI Automation
-- Python Scripting
-- AI Integrations
-
-### 💻 Software Development
-- Backend APIs
-- SaaS Development
-- Automation Tools
-- REST Services
+I enjoy building automation tools, backend systems, AI-powered applications and learning modern security practices.
 
 ---
 
-# 💻 Tech Stack
+# 🚀 Tech Stack
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=python,javascript,cpp,bash,nodejs,express,mongodb,git,github,linux,ubuntu,vscode"/>
-
 </p>
+
+---
+
+# 🎯 Currently Learning
+
+- 🛡️ Cyber Security
+- 🤖 Artificial Intelligence
+- ☁️ Backend Architecture
+- ⚙️ Automation
+- 🐧 Linux
 
 ---
 
@@ -63,11 +51,11 @@ I enjoy building automation tools, backend systems and security-focused applicat
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Statistics
 
 <p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=avish-mittal&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=avish-mittal&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
 <img width="48%" src="https://streak-stats.demolab.com?user=avish-mittal&theme=tokyonight&hide_border=true"/>
 
@@ -89,15 +77,7 @@ I enjoy building automation tools, backend systems and security-focused applicat
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=avish-mittal&theme=tokyonight&column=7&margin-w=10&margin-h=10&no-frame=true"/>
-</p>
-
----
-
-# 📑 Profile Summary
+# 📑 GitHub Summary
 
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=avish-mittal&theme=tokyonight"/>
@@ -107,14 +87,6 @@ I enjoy building automation tools, backend systems and security-focused applicat
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=avish-mittal&theme=tokyonight"/>
 
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=avish-mittal&theme=tokyonight"/>
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://github.com/avish-mittal/avish-mittal/blob/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
@@ -139,11 +111,10 @@ I enjoy building automation tools, backend systems and security-focused applicat
 
 ---
 
-# ⚡ Philosophy
+# ⚡ Quote
 
-> **Secure • Build • Automate • Innovate**
+> *"Secure. Build. Automate. Repeat."*
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0f172a,100:2563eb"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:2563EB,100:0F172A"/>
 </p>
-
