@@ -92,7 +92,7 @@ I enjoy building automation tools, backend systems, AI-powered applications and 
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://instagram.com/avi._idk">
+<a href="https://instagram.com/ifw_.avish">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
