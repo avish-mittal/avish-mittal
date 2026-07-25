@@ -46,7 +46,7 @@ I enjoy building automation tools, backend systems, AI-powered applications and 
 # 🟢 Discord Presence
 
 <p align="center">
-<img src="https://lanyard.cnrad.dev/api/1512688048192880640?theme=dark&animated=true&borderRadius=18px"/>
+<img src="https://lanyard.cnrad.dev/api/1317520928338608148?theme=dark&animated=true&borderRadius=18px"/>
 </p>
 
 ---
